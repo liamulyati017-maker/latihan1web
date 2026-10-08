@@ -7,7 +7,7 @@ Repository ini dibuat untuk memenuhi tugas **Praktikum 1 Pemrograman Web** di **
 | Keterangan      | Data                 |
 | --------------- | ---------------      |
 | **Nama**        | Lia Mulyati          |
-| **Kelas**       | I251B                |
+| **Kelas**       | I251D                |
 | **NIM**         | 312510167            |
 | **Mata Kuliah** | Pemrograman Web      |
 
